@@ -23,7 +23,6 @@ const v1Routes = require();
 app.use();
 
 // Start the server and log a message to confirm it's running
-
 app.listen(port, () => {
   // ⬇️ Code here
 });

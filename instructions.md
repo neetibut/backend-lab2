@@ -17,10 +17,6 @@ Make sure you have the following installed on your machine:
 
    Change into the project directory:
 
-   ```sh
-   cd express-restful-routes
-   ```
-
 3. **Install Dependencies**
 
    Run the following command to install the required dependencies:
